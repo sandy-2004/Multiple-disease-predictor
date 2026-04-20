@@ -1,4 +1,4 @@
-# 🏥 MediPredict — Multi-Disease Prediction System
+#  MediPredict — Multi-Disease Prediction System
 
 AI-powered prediction for **9 diseases** using Machine Learning.
 
